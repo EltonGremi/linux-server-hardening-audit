@@ -19,8 +19,9 @@ git clone [https://github.com/eltongremi/linux-server-hardening-audit.git](https
 cd linux-server-hardening-audit
 chmod +x audit.sh
 sudo ./audit.sh
-
+```
 ## Export Report to Markdown
 
 ```bash
 sudo ./audit.sh -o security-audit-report.md
+```
