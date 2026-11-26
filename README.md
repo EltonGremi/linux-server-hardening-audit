@@ -15,7 +15,7 @@ A lightweight, zero-dependency Bash auditing script designed for Systems Adminis
 ## Quick Start
 
 ```bash
-git clone [https://github.com/eltongremi/linux-server-hardening-audit.git](https://github.com/eltongremi/linux-server-hardening-audit.git)
+git clone https://github.com/eltongremi/linux-server-hardening-audit.git
 cd linux-server-hardening-audit
 chmod +x audit.sh
 sudo ./audit.sh
